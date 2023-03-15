@@ -21,7 +21,7 @@
         "php": "8.1",
         "cocur/slugify": "v4.3.0",
         "sonata-project/doctrine-extensions": "^1.5",
-        "sonata-project/form-extensions": "^0.1.1",
+        "sonata-project/form-extensions": "^1.10.0",
         "sonata-project/twig-extensions": "^0.1.1",
         "symfony/config": "v6.2.7",
         "symfony/dependency-injection": "v6.1.12",
